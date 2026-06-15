@@ -1,0 +1,6 @@
+service,department,appointment_required,contact,notes
+Routine laboratory collection,Laboratory,recommended,555-0121,Fasting instructions must come from the ordering clinician
+Diagnostic imaging,Radiology,yes,555-0120,Authorization may be required
+Medical record copy,Medical Records,yes,555-0131,Identity verification and signed request required
+Interpreter request,Patient Relations,recommended,555-0132,Request as early as possible
+Cost estimate,Billing and Insurance,yes,555-0130,Estimate is not a guarantee

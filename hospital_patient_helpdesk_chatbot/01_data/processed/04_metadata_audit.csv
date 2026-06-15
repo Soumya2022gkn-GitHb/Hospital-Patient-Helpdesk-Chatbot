@@ -1,0 +1,103 @@
+chunk_id,source_file,department,department_method,department_confidence,content_category,category_method,category_confidence,page_reference,page_method,safety_labels
+database-hospital-helpdesk-db-0001-chunk-001,database/hospital_helpdesk.db,Emergency Department,department_table_name,1.0,department_information,database_table,1.0,,not_applicable,emergency
+database-hospital-helpdesk-db-0002-chunk-001,database/hospital_helpdesk.db,Appointments Desk,department_table_name,1.0,department_information,database_table,1.0,,not_applicable,
+database-hospital-helpdesk-db-0003-chunk-001,database/hospital_helpdesk.db,Cardiology,department_table_name,1.0,department_information,database_table,1.0,,not_applicable,
+database-hospital-helpdesk-db-0004-chunk-001,database/hospital_helpdesk.db,Dermatology,department_table_name,1.0,department_information,database_table,1.0,,not_applicable,
+database-hospital-helpdesk-db-0005-chunk-001,database/hospital_helpdesk.db,General Medicine,department_table_name,1.0,department_information,database_table,1.0,,not_applicable,
+database-hospital-helpdesk-db-0006-chunk-001,database/hospital_helpdesk.db,Pediatrics,department_table_name,1.0,department_information,database_table,1.0,,not_applicable,
+database-hospital-helpdesk-db-0007-chunk-001,database/hospital_helpdesk.db,Radiology,department_table_name,1.0,department_information,database_table,1.0,,not_applicable,
+database-hospital-helpdesk-db-0008-chunk-001,database/hospital_helpdesk.db,Laboratory,department_table_name,1.0,department_information,database_table,1.0,,not_applicable,
+database-hospital-helpdesk-db-0009-chunk-001,database/hospital_helpdesk.db,Pharmacy,department_table_name,1.0,department_information,database_table,1.0,,not_applicable,medical_advice
+database-hospital-helpdesk-db-0010-chunk-001,database/hospital_helpdesk.db,Billing and Insurance,department_table_name,1.0,department_information,database_table,1.0,,not_applicable,
+database-hospital-helpdesk-db-0011-chunk-001,database/hospital_helpdesk.db,Medical Records,department_table_name,1.0,department_information,database_table,1.0,,not_applicable,
+database-hospital-helpdesk-db-0012-chunk-001,database/hospital_helpdesk.db,Patient Relations,department_table_name,1.0,department_information,database_table,1.0,,not_applicable,
+database-hospital-helpdesk-db-0013-chunk-001,database/hospital_helpdesk.db,Cardiology,explicit_field,1.0,doctor_schedule,database_table,1.0,,not_applicable,
+database-hospital-helpdesk-db-0014-chunk-001,database/hospital_helpdesk.db,Cardiology,explicit_field,1.0,doctor_schedule,database_table,1.0,,not_applicable,
+database-hospital-helpdesk-db-0015-chunk-001,database/hospital_helpdesk.db,Dermatology,explicit_field,1.0,doctor_schedule,database_table,1.0,,not_applicable,
+database-hospital-helpdesk-db-0016-chunk-001,database/hospital_helpdesk.db,Dermatology,explicit_field,1.0,doctor_schedule,database_table,1.0,,not_applicable,
+database-hospital-helpdesk-db-0017-chunk-001,database/hospital_helpdesk.db,General Medicine,explicit_field,1.0,doctor_schedule,database_table,1.0,,not_applicable,
+database-hospital-helpdesk-db-0018-chunk-001,database/hospital_helpdesk.db,General Medicine,explicit_field,1.0,doctor_schedule,database_table,1.0,,not_applicable,
+database-hospital-helpdesk-db-0019-chunk-001,database/hospital_helpdesk.db,General Medicine,explicit_field,1.0,doctor_schedule,database_table,1.0,,not_applicable,
+database-hospital-helpdesk-db-0020-chunk-001,database/hospital_helpdesk.db,Pediatrics,explicit_field,1.0,doctor_schedule,database_table,1.0,,not_applicable,
+database-hospital-helpdesk-db-0021-chunk-001,database/hospital_helpdesk.db,Pediatrics,explicit_field,1.0,doctor_schedule,database_table,1.0,,not_applicable,
+database-hospital-helpdesk-db-0022-chunk-001,database/hospital_helpdesk.db,Pediatrics,explicit_field,1.0,doctor_schedule,database_table,1.0,,not_applicable,
+database-hospital-helpdesk-db-0023-chunk-001,database/hospital_helpdesk.db,Portal Support,keyword_inference,0.55,patient_portal,keyword_inference,0.55,,not_applicable,
+database-hospital-helpdesk-db-0024-chunk-001,database/hospital_helpdesk.db,Portal Support,keyword_inference,0.55,patient_portal,keyword_inference,0.55,,not_applicable,
+database-hospital-helpdesk-db-0025-chunk-001,database/hospital_helpdesk.db,Portal Support,keyword_inference,0.55,patient_portal,keyword_inference,0.55,,not_applicable,
+database-schema-sql-0001-chunk-001,database/schema.sql,Data Governance,source_type_rule,1.0,data_schema,source_type_rule,1.0,,not_applicable,
+faqs-hospital-faqs-json-0001-chunk-001,faqs/hospital_faqs.json,Portal Support,keyword_inference,0.55,appointments,explicit_field,1.0,,not_applicable,
+faqs-hospital-faqs-json-0002-chunk-001,faqs/hospital_faqs.json,Appointments Desk,keyword_inference,0.65,appointments,explicit_field,1.0,,not_applicable,
+faqs-hospital-faqs-json-0003-chunk-001,faqs/hospital_faqs.json,Billing and Insurance,keyword_inference,0.55,appointments,explicit_field,1.0,,not_applicable,
+faqs-hospital-faqs-json-0004-chunk-001,faqs/hospital_faqs.json,Appointments Desk,keyword_inference,0.65,appointments,explicit_field,1.0,,not_applicable,
+faqs-hospital-faqs-json-0005-chunk-001,faqs/hospital_faqs.json,Billing and Insurance,keyword_inference,0.85,billing,explicit_field,1.0,,not_applicable,
+faqs-hospital-faqs-json-0006-chunk-001,faqs/hospital_faqs.json,Billing and Insurance,keyword_inference,0.75,billing,explicit_field,1.0,,not_applicable,
+faqs-hospital-faqs-json-0007-chunk-001,faqs/hospital_faqs.json,Billing and Insurance,keyword_inference,0.65,insurance,explicit_field,1.0,,not_applicable,
+faqs-hospital-faqs-json-0008-chunk-001,faqs/hospital_faqs.json,Billing and Insurance,keyword_inference,0.75,insurance,explicit_field,1.0,,not_applicable,privacy
+faqs-hospital-faqs-json-0009-chunk-001,faqs/hospital_faqs.json,Medical Records,keyword_inference,0.55,records,explicit_field,1.0,,not_applicable,privacy
+faqs-hospital-faqs-json-0010-chunk-001,faqs/hospital_faqs.json,Billing and Insurance,keyword_inference,0.55,records,explicit_field,1.0,,not_applicable,privacy
+faqs-hospital-faqs-json-0011-chunk-001,faqs/hospital_faqs.json,Portal Support,keyword_inference,0.55,portal,explicit_field,1.0,,not_applicable,
+faqs-hospital-faqs-json-0012-chunk-001,faqs/hospital_faqs.json,Laboratory,keyword_inference,0.55,portal,explicit_field,1.0,,not_applicable,
+faqs-hospital-faqs-json-0013-chunk-001,faqs/hospital_faqs.json,Visitor Services,keyword_inference,0.65,visitors,explicit_field,1.0,,not_applicable,
+faqs-hospital-faqs-json-0014-chunk-001,faqs/hospital_faqs.json,Visitor Services,keyword_inference,0.55,visitors,explicit_field,1.0,,not_applicable,
+faqs-hospital-faqs-json-0015-chunk-001,faqs/hospital_faqs.json,Patient Relations,keyword_inference,0.75,accessibility,explicit_field,1.0,,not_applicable,
+faqs-hospital-faqs-json-0016-chunk-001,faqs/hospital_faqs.json,Patient Relations,keyword_inference,0.55,accessibility,explicit_field,1.0,,not_applicable,
+faqs-hospital-faqs-json-0017-chunk-001,faqs/hospital_faqs.json,Facilities,keyword_inference,0.75,facilities,explicit_field,1.0,,not_applicable,
+faqs-hospital-faqs-json-0018-chunk-001,faqs/hospital_faqs.json,Facilities,keyword_inference,0.55,facilities,explicit_field,1.0,,not_applicable,
+faqs-hospital-faqs-json-0019-chunk-001,faqs/hospital_faqs.json,Emergency Department,keyword_inference,0.55,emergency,explicit_field,1.0,,not_applicable,emergency
+faqs-hospital-faqs-json-0020-chunk-001,faqs/hospital_faqs.json,Pharmacy,keyword_inference,0.55,clinical_safety,explicit_field,1.0,,not_applicable,medical_advice
+manuals-patient-portal-manual-pdf-0001-chunk-001,manuals/patient_portal_manual.pdf,Portal Support,keyword_inference,0.85,patient_portal,keyword_inference,0.95,1,pdf_text_overlap,privacy
+manuals-patient-portal-manual-pdf-0001-chunk-002,manuals/patient_portal_manual.pdf,Portal Support,keyword_inference,0.65,patient_portal,keyword_inference,0.65,1-2,pdf_text_overlap,emergency
+pdfs-appointment-policy-pdf-0001-chunk-001,pdfs/appointment_policy.pdf,Appointments Desk,keyword_inference,0.85,appointments,keyword_inference,0.95,1,pdf_text_overlap,privacy
+pdfs-appointment-policy-pdf-0001-chunk-002,pdfs/appointment_policy.pdf,Billing and Insurance,keyword_inference,0.65,appointments,keyword_inference,0.75,1-2,pdf_text_overlap,privacy
+pdfs-hospital-faqs-pdf-0001-chunk-001,pdfs/hospital_faqs.pdf,Pharmacy,keyword_inference,0.65,medical_records,keyword_inference,0.65,1,pdf_text_overlap,emergency;medical_advice
+pdfs-hospital-faqs-pdf-0001-chunk-002,pdfs/hospital_faqs.pdf,Patient Relations,keyword_inference,0.75,accessibility,keyword_inference,0.75,1,pdf_text_overlap,
+pdfs-insurance-guidelines-pdf-0001-chunk-001,pdfs/insurance_guidelines.pdf,Billing and Insurance,keyword_inference,0.95,insurance,keyword_inference,0.95,1,pdf_text_overlap,privacy
+pdfs-insurance-guidelines-pdf-0001-chunk-002,pdfs/insurance_guidelines.pdf,Billing and Insurance,keyword_inference,0.95,insurance,keyword_inference,0.75,1-2,pdf_text_overlap,
+provenance-source-manifest-csv-0001-chunk-001,provenance/source_manifest.csv,Data Governance,keyword_inference,0.65,provenance,keyword_inference,0.75,,not_applicable,privacy
+provenance-source-manifest-csv-0002-chunk-001,provenance/source_manifest.csv,Data Governance,keyword_inference,0.65,provenance,keyword_inference,0.75,,not_applicable,emergency;medical_advice
+provenance-source-manifest-csv-0003-chunk-001,provenance/source_manifest.csv,Data Governance,keyword_inference,0.65,provenance,keyword_inference,0.75,,not_applicable,
+provenance-source-manifest-csv-0004-chunk-001,provenance/source_manifest.csv,Data Governance,keyword_inference,0.65,provenance,keyword_inference,0.75,,not_applicable,
+provenance-source-manifest-csv-0005-chunk-001,provenance/source_manifest.csv,Data Governance,keyword_inference,0.65,provenance,keyword_inference,0.65,,not_applicable,
+support-logs-deidentified-support-logs-jsonl-0001-chunk-001,support_logs/deidentified_support_logs.jsonl,Cardiology,keyword_inference,0.55,appointments,explicit_field,1.0,,not_applicable,
+support-logs-deidentified-support-logs-jsonl-0002-chunk-001,support_logs/deidentified_support_logs.jsonl,Radiology,keyword_inference,0.55,directions,explicit_field,1.0,,not_applicable,
+support-logs-deidentified-support-logs-jsonl-0003-chunk-001,support_logs/deidentified_support_logs.jsonl,Portal Support,keyword_inference,0.55,portal,explicit_field,1.0,,not_applicable,
+support-logs-deidentified-support-logs-jsonl-0004-chunk-001,support_logs/deidentified_support_logs.jsonl,Billing and Insurance,keyword_inference,0.75,insurance,explicit_field,1.0,,not_applicable,privacy
+support-logs-deidentified-support-logs-jsonl-0005-chunk-001,support_logs/deidentified_support_logs.jsonl,Emergency Department,keyword_inference,0.65,emergency,explicit_field,1.0,,not_applicable,emergency
+support-logs-deidentified-support-logs-jsonl-0006-chunk-001,support_logs/deidentified_support_logs.jsonl,Billing and Insurance,keyword_inference,0.55,records,explicit_field,1.0,,not_applicable,privacy
+support-logs-deidentified-support-logs-jsonl-0007-chunk-001,support_logs/deidentified_support_logs.jsonl,Pharmacy,keyword_inference,0.55,clinical_safety,explicit_field,1.0,,not_applicable,medical_advice
+support-logs-deidentified-support-logs-jsonl-0008-chunk-001,support_logs/deidentified_support_logs.jsonl,Visitor Services,keyword_inference,0.65,visitors,explicit_field,1.0,,not_applicable,
+tabular-department-info-csv-0001-chunk-001,tabular/department_info.csv,Emergency Department,explicit_field,1.0,department_information,keyword_inference,0.75,,not_applicable,emergency
+tabular-department-info-csv-0002-chunk-001,tabular/department_info.csv,Appointments Desk,explicit_field,1.0,department_information,keyword_inference,0.75,,not_applicable,
+tabular-department-info-csv-0003-chunk-001,tabular/department_info.csv,Cardiology,explicit_field,1.0,department_information,keyword_inference,0.75,,not_applicable,
+tabular-department-info-csv-0004-chunk-001,tabular/department_info.csv,Dermatology,explicit_field,1.0,department_information,keyword_inference,0.75,,not_applicable,
+tabular-department-info-csv-0005-chunk-001,tabular/department_info.csv,General Medicine,explicit_field,1.0,department_information,keyword_inference,0.75,,not_applicable,
+tabular-department-info-csv-0006-chunk-001,tabular/department_info.csv,Pediatrics,explicit_field,1.0,department_information,keyword_inference,0.75,,not_applicable,
+tabular-department-info-csv-0007-chunk-001,tabular/department_info.csv,Radiology,explicit_field,1.0,department_information,keyword_inference,0.75,,not_applicable,
+tabular-department-info-csv-0008-chunk-001,tabular/department_info.csv,Laboratory,explicit_field,1.0,department_information,keyword_inference,0.75,,not_applicable,
+tabular-department-info-csv-0009-chunk-001,tabular/department_info.csv,Pharmacy,explicit_field,1.0,department_information,keyword_inference,0.75,,not_applicable,medical_advice
+tabular-department-info-csv-0010-chunk-001,tabular/department_info.csv,Billing and Insurance,explicit_field,1.0,department_information,keyword_inference,0.75,,not_applicable,
+tabular-department-info-csv-0011-chunk-001,tabular/department_info.csv,Medical Records,explicit_field,1.0,department_information,keyword_inference,0.75,,not_applicable,
+tabular-department-info-csv-0012-chunk-001,tabular/department_info.csv,Patient Relations,explicit_field,1.0,department_information,keyword_inference,0.75,,not_applicable,
+tabular-doctor-schedule-csv-0001-chunk-001,tabular/doctor_schedule.csv,Cardiology,explicit_field,1.0,doctor_schedule,keyword_inference,0.85,,not_applicable,
+tabular-doctor-schedule-csv-0002-chunk-001,tabular/doctor_schedule.csv,Cardiology,explicit_field,1.0,doctor_schedule,keyword_inference,0.85,,not_applicable,
+tabular-doctor-schedule-csv-0003-chunk-001,tabular/doctor_schedule.csv,Dermatology,explicit_field,1.0,doctor_schedule,keyword_inference,0.85,,not_applicable,
+tabular-doctor-schedule-csv-0004-chunk-001,tabular/doctor_schedule.csv,Dermatology,explicit_field,1.0,doctor_schedule,keyword_inference,0.85,,not_applicable,
+tabular-doctor-schedule-csv-0005-chunk-001,tabular/doctor_schedule.csv,General Medicine,explicit_field,1.0,doctor_schedule,keyword_inference,0.85,,not_applicable,
+tabular-doctor-schedule-csv-0006-chunk-001,tabular/doctor_schedule.csv,General Medicine,explicit_field,1.0,doctor_schedule,keyword_inference,0.85,,not_applicable,
+tabular-doctor-schedule-csv-0007-chunk-001,tabular/doctor_schedule.csv,General Medicine,explicit_field,1.0,doctor_schedule,keyword_inference,0.85,,not_applicable,
+tabular-doctor-schedule-csv-0008-chunk-001,tabular/doctor_schedule.csv,Pediatrics,explicit_field,1.0,doctor_schedule,keyword_inference,0.75,,not_applicable,
+tabular-doctor-schedule-csv-0009-chunk-001,tabular/doctor_schedule.csv,Pediatrics,explicit_field,1.0,doctor_schedule,keyword_inference,0.75,,not_applicable,
+tabular-doctor-schedule-csv-0010-chunk-001,tabular/doctor_schedule.csv,Pediatrics,explicit_field,1.0,doctor_schedule,keyword_inference,0.75,,not_applicable,
+tabular-insurance-plans-csv-0001-chunk-001,tabular/insurance_plans.csv,Billing and Insurance,keyword_inference,0.65,insurance,keyword_inference,0.55,,not_applicable,privacy
+tabular-insurance-plans-csv-0002-chunk-001,tabular/insurance_plans.csv,Billing and Insurance,keyword_inference,0.65,insurance,keyword_inference,0.55,,not_applicable,privacy
+tabular-insurance-plans-csv-0003-chunk-001,tabular/insurance_plans.csv,Billing and Insurance,keyword_inference,0.65,insurance,keyword_inference,0.55,,not_applicable,privacy
+tabular-insurance-plans-csv-0004-chunk-001,tabular/insurance_plans.csv,Billing and Insurance,keyword_inference,0.65,insurance,keyword_inference,0.55,,not_applicable,privacy
+tabular-service-directory-csv-0001-chunk-001,tabular/service_directory.csv,Laboratory,explicit_field,1.0,department_information,keyword_inference,0.55,,not_applicable,
+tabular-service-directory-csv-0002-chunk-001,tabular/service_directory.csv,Radiology,explicit_field,1.0,department_information,keyword_inference,0.55,,not_applicable,privacy
+tabular-service-directory-csv-0003-chunk-001,tabular/service_directory.csv,Medical Records,explicit_field,1.0,medical_records,keyword_inference,0.65,,not_applicable,privacy
+tabular-service-directory-csv-0004-chunk-001,tabular/service_directory.csv,Patient Relations,explicit_field,1.0,department_information,keyword_inference,0.55,,not_applicable,
+tabular-service-directory-csv-0005-chunk-001,tabular/service_directory.csv,Billing and Insurance,explicit_field,1.0,billing,keyword_inference,0.65,,not_applicable,
+web-pages-contact-and-hours-html-0001-chunk-001,web_pages/contact_and_hours.html,Patient Relations,keyword_inference,0.55,emergency,keyword_inference,0.55,,not_applicable,emergency
+web-pages-patient-rights-html-0001-chunk-001,web_pages/patient_rights.html,Patient Relations,keyword_inference,0.65,patient_rights,keyword_inference,0.75,,not_applicable,privacy
+web-pages-portal-help-html-0001-chunk-001,web_pages/portal_help.html,Portal Support,keyword_inference,0.55,patient_portal,keyword_inference,0.55,,not_applicable,
+web-pages-visitor-information-html-0001-chunk-001,web_pages/visitor_information.html,Visitor Services,keyword_inference,0.75,visitors,keyword_inference,0.75,,not_applicable,

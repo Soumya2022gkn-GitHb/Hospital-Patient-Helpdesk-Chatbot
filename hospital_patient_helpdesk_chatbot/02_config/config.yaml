@@ -1,0 +1,12 @@
+project_name: hospital_patient_helpdesk_chatbot
+environment: development
+chunking:
+  chunk_size: 800
+  chunk_overlap: 120
+retrieval:
+  top_k: 5
+vector_store:
+  provider: chroma
+  persist_directory: 05_vector_store/chroma_db
+logging:
+  redact_personal_health_information: true

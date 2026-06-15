@@ -1,0 +1,4 @@
+feedback_id,turn_id,request_id,rating,reason_tags,question_category,answer_mode,safety_flag,guardrail_action,source_count,feedback_timestamp_utc
+19_FB_001,TURN-001,REQ-3D523F1A9515,thumbs_down,missing_detail,appointments,grounded_answer,False,pass,3,2026-06-15T21:04:31.303066+00:00
+19_FB_002,TURN-002,REQ-AA5560CDB0A7,thumbs_up,helpful;clear,department_information,grounded_answer,False,pass,3,2026-06-15T21:04:31.303066+00:00
+19_FB_003,TURN-003,REQ-16FC84AEC6FE,thumbs_up,emergency_routing;clear,emergency,emergency,True,override,0,2026-06-15T21:04:31.303066+00:00

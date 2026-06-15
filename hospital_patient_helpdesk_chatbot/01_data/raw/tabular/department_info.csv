@@ -1,0 +1,13 @@
+department_name,location,phone,hours,services
+Emergency Department,"Ground Floor, East Wing",555-0100,24 hours,Emergency evaluation and stabilization
+Appointments Desk,Main Lobby,555-0101,Mon-Sat 07:00-19:00,"Booking, rescheduling, and cancellations"
+Cardiology,"Level 3, West Wing",555-0110,Mon-Fri 08:00-17:00,Outpatient heart-care consultations
+Dermatology,"Level 2, North Wing",555-0111,Mon-Fri 09:00-16:00,Outpatient skin-care consultations
+General Medicine,"Level 1, West Wing",555-0112,Mon-Sat 08:00-18:00,Adult primary and follow-up care
+Pediatrics,"Level 2, East Wing",555-0113,Mon-Sat 08:00-18:00,Child and adolescent outpatient care
+Radiology,Lower Ground Floor,555-0120,Mon-Sat 07:00-20:00,Imaging appointments and report collection
+Laboratory,"Ground Floor, North Wing",555-0121,Daily 06:30-20:00,Specimen collection and result support
+Pharmacy,Main Lobby,555-0122,Daily 07:00-22:00,Prescription dispensing; no chatbot dosage advice
+Billing and Insurance,"Level 1, South Wing",555-0130,Mon-Fri 08:30-17:30,"Estimates, claims, and payment plans"
+Medical Records,"Level 1, South Wing",555-0131,Mon-Fri 09:00-17:00,Record access and amendment requests
+Patient Relations,Main Lobby,555-0132,Mon-Fri 09:00-17:00,"Compliments, concerns, and accessibility support"

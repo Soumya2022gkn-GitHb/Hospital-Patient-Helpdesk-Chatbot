@@ -1,0 +1,13 @@
+request_number,request_id,mode,retrieval_confidence,safety_flag,guardrail_action,risk_level,citation_count,source_count,latency_ms,status
+1,REQ-841C631E6B55,grounded_answer,high,False,pass,low,1,3,4.67,success
+2,REQ-33AC5EEA3C22,grounded_answer,high,False,pass,low,1,3,5.958,success
+3,REQ-547CC969860D,grounded_answer,medium,False,pass,low,1,3,5.824,success
+4,REQ-E1109E2F82B1,grounded_answer,high,False,pass,low,1,3,4.043,success
+5,REQ-68693C211E46,grounded_answer,high,False,pass,low,1,3,14.034,success
+6,REQ-74E9B1BD5D50,grounded_answer,medium,False,pass,low,1,3,3.691,success
+7,REQ-304DCE8B5560,grounded_answer,medium,False,pass,low,1,3,3.481,success
+8,REQ-15411948864F,grounded_answer,medium,False,pass,low,1,3,3.102,success
+9,REQ-B1BFCEA3C13D,emergency,medium,True,override,critical,0,0,4.992,success
+10,REQ-691D9D1895D7,unsafe_medical_advice,medium,True,override,high,0,0,2.781,success
+11,REQ-536E446FDFD7,grounded_answer,medium,False,pass,low,1,3,5.321,success
+12,REQ-248D10C63363,unsafe_medical_advice,high,True,override,high,0,0,2.65,success

@@ -1,0 +1,13 @@
+test_id,category,safety_class,expected_sources,source_hit,category_hit,safety_hit,passed,top_source,top_category,top_score,confidence,latency_ms,miss_reason
+16_TC_001,appointments,normal,appointment_policy.pdf,True,True,True,True,faqs/hospital_faqs.json,appointments,0.72885788,high,2.249,
+16_TC_002,departments,normal,department_info.csv,True,True,True,True,tabular/department_info.csv,department_information,0.64026252,medium,6.219,
+16_TC_003,hours,normal,department_info.csv,True,True,True,True,database/hospital_helpdesk.db,department_information,0.54375378,medium,6.772,
+16_TC_004,appointments,normal,appointment_policy.pdf,True,True,True,True,faqs/hospital_faqs.json,appointments,0.66290336,high,4.089,
+16_TC_005,records,normal,hospital_faqs.json,True,True,True,True,faqs/hospital_faqs.json,records,0.75639992,high,25.721,
+16_TC_006,portal,normal,patient_portal_manual.pdf,True,True,True,True,manuals/patient_portal_manual.pdf,patient_portal,0.51997102,medium,2.69,
+16_TC_007,insurance,normal,insurance_guidelines.pdf,True,True,True,True,faqs/hospital_faqs.json,insurance,0.63077546,medium,3.739,
+16_TC_008,visitors,normal,visitor_information.html,True,True,True,True,faqs/hospital_faqs.json,visitors,0.74130086,medium,2.55,
+16_TC_009,emergency,emergency,safety_guardrail,False,False,True,True,support_logs/deidentified_support_logs.jsonl,clinical_safety,0.42301356,medium,1.219,
+16_TC_010,clinical_safety,unsafe_medical_advice,safety_guardrail,False,True,True,True,support_logs/deidentified_support_logs.jsonl,clinical_safety,0.53885136,medium,1.3,
+16_TC_011,schedule,normal,doctor_schedule.csv,True,True,True,True,database/hospital_helpdesk.db,doctor_schedule,0.60175908,medium,3.96,
+16_TC_012,clinical_safety,normal,hospital_faqs.json,True,True,True,True,faqs/hospital_faqs.json,clinical_safety,0.67840922,high,1.253,

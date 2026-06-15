@@ -1,0 +1,5 @@
+plan_name,network_status,referral_may_be_required,prior_authorization_note,verification_phone
+Northstar Choice PPO,participating,no,May be required for advanced imaging,555-0201
+Community Health HMO,participating,yes,Required for selected specialty services,555-0202
+Open Access Plus,participating,no,Check plan-specific requirements,555-0203
+RegionalCare Basic,limited participation,yes,Verification required before scheduled services,555-0204

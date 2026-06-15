@@ -1,0 +1,11 @@
+doctor_name,department,day,start_time,end_time,location
+Dr. Avery Shah,Cardiology,Monday,09:00,13:00,Outpatient Clinic C3
+Dr. Morgan Lee,Cardiology,Wednesday,12:00,16:00,Outpatient Clinic C3
+Dr. Jordan Patel,Dermatology,Tuesday,09:00,15:00,Outpatient Clinic D2
+Dr. Casey Rivera,Dermatology,Thursday,10:00,16:00,Outpatient Clinic D2
+Dr. Taylor Kim,General Medicine,Monday,08:00,14:00,Outpatient Clinic G1
+Dr. Cameron Brooks,General Medicine,Tuesday,12:00,18:00,Outpatient Clinic G1
+Dr. Riley Singh,General Medicine,Friday,08:00,14:00,Outpatient Clinic G1
+Dr. Quinn Davis,Pediatrics,Monday,09:00,15:00,Children's Clinic P2
+Dr. Rowan Chen,Pediatrics,Wednesday,10:00,16:00,Children's Clinic P2
+Dr. Skyler Jones,Pediatrics,Saturday,08:00,12:00,Children's Clinic P2

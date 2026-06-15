@@ -1,0 +1,13 @@
+prompt_id,provider,model,mode,latency_ms,input_tokens,output_tokens,response_characters,citations,status
+PROMPT-001,offline,offline-grounded-v1,grounded_answer,0.026,894,29,116,[S1],created
+PROMPT-002,offline,offline-grounded-v1,grounded_answer,0.129,649,40,158,[S1],created
+PROMPT-003,offline,offline-grounded-v1,grounded_answer,0.015,635,39,153,[S1],created
+PROMPT-004,offline,offline-grounded-v1,grounded_answer,0.012,926,34,136,[S1],created
+PROMPT-005,offline,offline-grounded-v1,grounded_answer,0.01,748,28,109,[S1],created
+PROMPT-006,offline,offline-grounded-v1,grounded_answer,0.041,881,25,100,[S1],created
+PROMPT-007,offline,offline-grounded-v1,grounded_answer,0.01,936,29,116,[S1],created
+PROMPT-008,offline,offline-grounded-v1,grounded_answer,0.008,646,21,82,[S1],created
+PROMPT-009,offline,offline-grounded-v1,emergency,0.002,484,34,133,,created
+PROMPT-010,offline,offline-grounded-v1,unsafe_medical_advice,0.001,488,34,135,,created
+PROMPT-011,offline,offline-grounded-v1,grounded_answer,0.012,619,37,146,[S1],created
+PROMPT-012,offline,offline-grounded-v1,unsafe_medical_advice,0.001,485,34,135,,created

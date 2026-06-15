@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+05_vector_store/chroma_db/*
+!05_vector_store/chroma_db/.gitkeep
+01_data/processed/*.json

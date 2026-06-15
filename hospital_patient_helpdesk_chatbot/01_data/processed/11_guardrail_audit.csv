@@ -1,0 +1,13 @@
+answer_id,mode,safety_flag,action,risk_level,triggered_rules,citation_count,source_count,status
+ANSWER-001,grounded_answer,False,pass,low,,1,3,checked
+ANSWER-002,grounded_answer,False,pass,low,,1,3,checked
+ANSWER-003,grounded_answer,False,pass,low,,1,3,checked
+ANSWER-004,grounded_answer,False,pass,low,,1,3,checked
+ANSWER-005,grounded_answer,False,pass,low,,1,3,checked
+ANSWER-006,grounded_answer,False,pass,low,,1,3,checked
+ANSWER-007,grounded_answer,False,pass,low,,1,3,checked
+ANSWER-008,grounded_answer,False,pass,low,,1,3,checked
+ANSWER-009,emergency,True,override,critical,GR-001_EMERGENCY_ROUTING,0,0,checked
+ANSWER-010,unsafe_medical_advice,True,override,high,GR-003_UNSAFE_MEDICAL_REQUEST,0,0,checked
+ANSWER-011,grounded_answer,False,pass,low,,1,3,checked
+ANSWER-012,unsafe_medical_advice,True,override,high,GR-003_UNSAFE_MEDICAL_REQUEST,0,0,checked

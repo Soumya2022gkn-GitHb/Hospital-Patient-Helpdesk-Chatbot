@@ -1,0 +1,14 @@
+chromadb
+fastapi
+langchain
+matplotlib
+openai
+pandas
+pydantic
+pypdf
+python-dotenv
+pyyaml
+reportlab
+streamlit
+uvicorn
+pytest

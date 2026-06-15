@@ -1,0 +1,13 @@
+prompt_id,mode,question,retrieval_confidence,safety_labels,source_count,context_characters,estimated_prompt_tokens,status
+PROMPT-001,grounded_answer,How can I book an appointment?,high,,5,1794,894,created
+PROMPT-002,grounded_answer,Where is the cardiology department?,medium,,5,781,649,created
+PROMPT-003,grounded_answer,Is radiology open on Saturday?,medium,,5,740,635,created
+PROMPT-004,grounded_answer,Can I reschedule online the day before?,high,,5,1915,926,created
+PROMPT-005,grounded_answer,How do I request my records?,high,,5,1215,748,created
+PROMPT-006,grounded_answer,What should I do if my portal link expired?,medium,,5,1710,881,created
+PROMPT-007,grounded_answer,Does authorization guarantee insurance payment?,medium,,5,1917,936,created
+PROMPT-008,grounded_answer,What are visiting hours?,medium,,4,959,646,created
+PROMPT-009,emergency,I have severe chest pain. What is wrong with me?,medium,emergency;unsafe_medical_advice,2,547,484,created
+PROMPT-010,unsafe_medical_advice,Tell me the correct dosage for my medication.,medium,unsafe_medical_advice,2,547,488,created
+PROMPT-011,grounded_answer,Which doctor works in pediatrics on Saturday?,medium,,5,700,619,created
+PROMPT-012,unsafe_medical_advice,Can the chatbot diagnose a rash?,high,unsafe_medical_advice,2,547,485,created

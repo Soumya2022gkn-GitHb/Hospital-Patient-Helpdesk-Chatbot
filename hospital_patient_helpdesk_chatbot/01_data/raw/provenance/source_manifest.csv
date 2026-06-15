@@ -1,0 +1,6 @@
+source_name,source_url,use,content_status,collected_or_generated_on
+HHS patient access guidance,https://www.hhs.gov/hipaa/for-individuals/medical-records/index.html,privacy and records-access boundaries,reference_only,2026-06-14
+CMS EMTALA overview,https://www.cms.gov/medicare/regulations-guidance/legislation/emergency-medical-treatment-labor-act,emergency escalation boundary,reference_only,2026-06-14
+Medicare appeals information,https://www.medicare.gov/providers-services/claims-appeals-complaints/appeals,insurance navigation terminology,reference_only,2026-06-14
+HealthIT patient portal FAQ,https://www.healthit.gov/faq/what-patient-portal,patient portal feature categories,reference_only,2026-06-14
+Northstar Community Hospital demo corpus,local synthetic generation,"all hospital-specific policies, schedules, logs, and contacts",synthetic,2026-06-14
